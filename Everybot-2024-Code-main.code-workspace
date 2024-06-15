@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Downloads/Everybot-2024-Code-main/Everybot-2024-Code-main"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.server.launchMode": "Standard"
+	}
+}
